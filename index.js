@@ -10,4 +10,4 @@ class Person {
 }
 
 const azra = new Person('azra', 43)
-const eli = new Person('eli', 35)
+const eli = new Person('eli', 34)
