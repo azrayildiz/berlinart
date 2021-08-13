@@ -9,3 +9,5 @@ class Person {
         console.log(`Hello ${person,name}, this is ${this.name}`)
     }
 }
+
+const azra = new Person('azra', 43)
